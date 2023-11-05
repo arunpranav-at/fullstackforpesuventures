@@ -1,4 +1,5 @@
 # Project Created by Arun Pranav A T<br>
+A complete fullstack project using frontend - React.js, backend - Node.js, Express.js, database - Sequelize, MySQL<br>
 # Tech Stack Used:<br>
 Backend:<br>
 "nodejs",<br>
