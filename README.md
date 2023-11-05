@@ -22,22 +22,22 @@ Change the values in db.config.js file present in .backend\app\config<br>
 Install the dependencies given in techstack in respective directories<br>
 Run react by npm start command and node server by node server.js command<br>
 # SCREENSHOTS
-![Alt text](<Screenshot 2023-11-05 173138.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173151.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173509.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173554.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173643.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173651.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173707.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173730.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173741.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173750.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173813.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173836.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173846.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173921.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173939.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173945.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 173958.png>) <br><br>
-![Alt text](<Screenshot 2023-11-05 174019.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173138.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173151.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173509.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173554.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173643.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173651.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173707.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173730.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173741.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173750.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173813.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173836.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173846.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173921.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173939.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173945.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 173958.png>) <br><br>
+![Alt text](<./screenshots/Screenshot 2023-11-05 174019.png>) <br><br>
     
