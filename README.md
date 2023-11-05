@@ -1,5 +1,5 @@
-# Project Created by Arun Pranav A T<br><br><br>
-# Tech Stack Used:<br><br>
+# Project Created by Arun Pranav A T<br>
+# Tech Stack Used:<br>
 Backend:<br>
 "nodejs",<br>
 "express": "^4.18.2",<br>
@@ -15,12 +15,12 @@ Frontend<br>
 "react-dom": "^18.2.0",<br>
 "react-router-dom": "^6.18.0",<br>
 "react-scripts": "5.0.1",<br>
-"web-vitals": "^2.1.4"<br><br><br>
+"web-vitals": "^2.1.4"<br>
 # Steps:<br>  
 Clone the project<br>
 Change the values in db.config.js file present in .backend\app\config<br>
 Install the dependencies given in techstack in respective directories<br>
-Run react by npm start command and node server by node server.js command<br><br><br>
+Run react by npm start command and node server by node server.js command<br>
 # SCREENSHOTS
 ![Alt text](<Screenshot 2023-11-05 173138.png>) <br><br>
 ![Alt text](<Screenshot 2023-11-05 173151.png>) <br><br>
