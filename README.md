@@ -1,5 +1,5 @@
-#Project Created by Arun Pranav A T<br><br><br><br>
-#Tech Stack Used:<br>
+# Project Created by Arun Pranav A T<br><br><br>
+# Tech Stack Used:<br>
 "nodejs",<br>
 "express": "^4.18.2",<br>
 "sequelize": "^6.34.0"<br>
@@ -13,8 +13,8 @@
 "react-dom": "^18.2.0",<br>
 "react-router-dom": "^6.18.0",<br>
 "react-scripts": "5.0.1",<br>
-"web-vitals": "^2.1.4"<br><br><br><br>
-#Steps:<br>  
+"web-vitals": "^2.1.4"<br><br><br>
+# Steps:<br>  
 Clone the project<br>
 Change the values in db.config.js file present in .backend\app\config<br>
 Install the dependencies given in techstack in respective folders<br>
